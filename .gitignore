@@ -4,3 +4,5 @@ dist
 .env
 .env.local
 .tmp
+.local-gh
+gh_*.zip
