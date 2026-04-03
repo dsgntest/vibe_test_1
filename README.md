@@ -1,6 +1,8 @@
-# Subscription Manager
+# vibe_test_1
 
-Google AI Studio에서 생성한 `Vite + React + TypeScript` 앱을 GitHub Pages에 배포할 수 있도록 정리한 프로젝트입니다.
+디지털 사글세 바이브 코딩 프로젝트입니다.
+
+Google AI Studio에서 생성한 `Vite + React + TypeScript` 앱을 GitHub Pages에 배포할 수 있도록 정리했습니다.
 
 ## 로컬 실행
 
